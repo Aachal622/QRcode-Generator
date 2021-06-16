@@ -8,6 +8,6 @@
 
 **Output is displayed**
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![Image](qrcode_img.PNG)
 
 
